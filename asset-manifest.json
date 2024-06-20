@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mahi-s-Portfolio/static/css/main.9e31f775.css",
+    "main.js": "/Mahi-s-Portfolio/static/js/main.1c1ac9b5.js",
+    "static/media/profile.png": "/Mahi-s-Portfolio/static/media/profile.40f19cd96b5b2fc4e1e2.png",
+    "static/media/design.png": "/Mahi-s-Portfolio/static/media/design.bcee087980e486b0b524.png",
+    "static/media/Project1.png": "/Mahi-s-Portfolio/static/media/Project1.2a6e7cb33a5f98680945.png",
+    "index.html": "/Mahi-s-Portfolio/index.html",
+    "main.9e31f775.css.map": "/Mahi-s-Portfolio/static/css/main.9e31f775.css.map",
+    "main.1c1ac9b5.js.map": "/Mahi-s-Portfolio/static/js/main.1c1ac9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e31f775.css",
+    "static/js/main.1c1ac9b5.js"
+  ]
+}
